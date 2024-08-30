@@ -1,0 +1,33 @@
+#container{
+    width: 80%;
+    margin: 20px auto;
+}
+
+#header{
+    height: 200px;
+    margin-bottom: 1%;
+    float: left;
+    text-align: center;
+    background-color: rgb(100, 255, 50);
+    width: 100%;
+}
+
+#nav{
+    float: left;
+    width: 20%;
+    margin-right: 1%;
+    background-color: #607956;
+}
+
+#content{
+    float: left;
+    width: 79%;
+    background-color: #89c47b;
+}
+
+li:hover{
+    color: black;
+    border: #89c47b;
+    background-color: #ff0000;
+}
+
